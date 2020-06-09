@@ -28,7 +28,8 @@ ul li:hover {
 }
 
 .leftside {
-    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url('img/candice.jpg');
+ background-image: linear-gradient(to left, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url('img/devarkonda1.jpg
+');
     background-size: cover;
     width: 100%;
     height: 100vh;
